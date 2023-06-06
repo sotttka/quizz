@@ -1,0 +1,224 @@
+{
+    "Questions": [
+      {
+        "Index": 1,
+        "Text": "Дата появления человечества, по мнению ученых",
+        "Answers": [
+          {
+            "Text": "1,5 млн. лет назад",
+            "IsCorrect": false
+          },
+          {
+            "Text": "более 2 млн. лет назад",
+            "IsCorrect": true
+          },
+          {
+            "Text": "6 млн. лет назад",
+            "IsCorrect": false
+          },
+          {
+            "Text": "400 тыс. лет назад",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 2,
+        "Text": "Процесс сбора дикорастущих плодов и ягод назывался:", 
+        "Answers": [
+          {
+            "Text": "Собирательством",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Земледелием",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Охотой",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Скотоводством",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 3,
+        "Text": "Первое животное, которое приручил человек:",
+        "Answers": [
+          {
+            "Text": "Гусь",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Собака",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Лошадь",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Кошка",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 4,
+        "Text": "Выберите название первого металла, освоенного человеком:",
+        "Answers": [
+          {
+            "Text": "Золото",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Серебро",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Медь",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Чугун",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 5,
+        "Text": "Какое значение играл огонь в жизни первобытного человека?",
+        "Answers": [
+          {
+            "Text": "Притягивал животных",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Освещал селения",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Люди перестали быть во власти природы",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Не было теперь нужды делать одежду",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 6,
+        "Text": " Почему первые люди укладывали в могилы умерших пищу, одежду и орудия?",
+        "Answers": [
+          {
+            "Text": "Соплеменнику нравились эти вещи при жизни",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Верили, что предметы потребуются в загробном мире",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Оставлять их было плохой приметой",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Хранили там свои сбережения",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 7,
+        "Text": "В первобытную эпоху возглавляли родовую общину –",
+        "Answers": [
+          {
+            "Text": "Старейшины",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Предки",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Рабы",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Шаманы",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 8,
+        "Text": "Кто руководил племенем в период военных набегов?",
+        "Answers": [
+          {
+            "Text": "Совет старейшин",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Вождь",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Идол",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Жрец",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 9,
+        "Text": "Представители влиятельных, знаменитых семей – это",
+        "Answers": [
+          {
+            "Text": "Оборотни",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Соплеменники",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Знатые люди",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Земледельцы",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Index": 10,
+        "Text": "Орудие для срезания колосьев называется:",
+        "Answers": [
+          {
+            "Text": "Мотыга",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Серп",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Гарпун",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Соха",
+            "IsCorrect": false
+          }
+        ]
+      }
+    ]
+  }
